@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Robin1995
 - 👀 I’m interested in Frontend Software Development
-- 🌱 I’m currently Reactjs and DevOps
+- 🌱 I’m currently working with Angular and AWS
 - 💞️ I’m looking to collaborate open source projects
 - 📫 How to reach me on Email fercho.rod16@gmail.com
 - 👀 Feel free to check it out my web portfolio on https://robin1995.github.io/portafolio/
